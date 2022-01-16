@@ -6,7 +6,7 @@ P.S This can be started anytime in the month of January.
 
 For complete details , go through the video : https://linktw.in/FCGPbm
 
-Benefits (For the ones who complete the Challenge) :
+### Benefits (For the ones who complete the Challenge) :
 
 1. Top 90-100 recent questions by most big tech companies will be done (who knows you get the same question). - (We all have been trusting previous year questions XD)
 2. The ones who complete this challenge will be given referrals for top tech companies and startups.
