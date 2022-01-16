@@ -16,7 +16,11 @@ Rules :
 
 You should be completing 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes .You can name the repository as #6Companies30days.
 The questions provided will be on a gap of 5 days for a new company i.e from 1-5th Jan , 6th-10th Jan and so on.
+
 3. You can complete 15 questions as per your time , either 3 questions a day or as per your convenience.
+
 4. You need to start the challenge by putting in a post on LinkedIn , Instagram, Twitter with hashtag #6Companies30days and #ReviseWithArsh and tag “Arsh Goyal” so that your entry can be tracked and you are eligible for referrals and other benefits.
+
 5. Than after every 5 days once a company is done , you can make a post announcing your milestones - Milestone -1 (When company 1 is completed) , Milestone -2 (When company 2 is completed).
+
 6. Let’s get started!
