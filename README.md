@@ -13,6 +13,7 @@ Benefits (For the ones who complete the Challenge) :
 
    A special surprise gift for you.
    Special 1 on 1 mentoring session on how to plan the things after this challenge - related to projects , revision , CS Fundamentals, Interview Tips , etc.
+   
    Rules :
 
     You should be completing 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes .You can name the repository as #6Companies30days.
