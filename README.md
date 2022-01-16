@@ -10,12 +10,13 @@ Benefits (For the ones who complete the Challenge) :
 
 1. Top 90-100 recent questions by most big tech companies will be done (who knows you get the same question). - (We all have been trusting previous year questions XD)
 2. The ones who complete this challenge will be given referrals for top tech companies and startups.
-A special surprise gift for you.
-Special 1 on 1 mentoring session on how to plan the things after this challenge - related to projects , revision , CS Fundamentals, Interview Tips , etc.
-Rules :
 
-You should be completing 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes .You can name the repository as #6Companies30days.
-The questions provided will be on a gap of 5 days for a new company i.e from 1-5th Jan , 6th-10th Jan and so on.
+   A special surprise gift for you.
+   Special 1 on 1 mentoring session on how to plan the things after this challenge - related to projects , revision , CS Fundamentals, Interview Tips , etc.
+   Rules :
+
+    You should be completing 1 company (15 Questions) in 5 days and try maintaining a github repository to store all the codes .You can name the repository as #6Companies30days.
+    The questions provided will be on a gap of 5 days for a new company i.e from 1-5th Jan , 6th-10th Jan and so on.
 
 3. You can complete 15 questions as per your time , either 3 questions a day or as per your convenience.
 
