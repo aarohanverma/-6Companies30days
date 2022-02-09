@@ -42,3 +42,7 @@ Link to Sheet : https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1u
 ## Company Name : Adobe
 
 Link to Sheet : https://docs.google.com/document/d/1cEAe63fC3YMJRwKmCoVOIXFUaFv5LqNXedxaGpaqd6U/edit
+
+## Company Name : Intuit
+
+Link to Sheet : https://docs.google.com/document/d/18oi6OlvcL3wYn20Jb9crW7NO4cGkL6vUfTvplNDGkTw/edit
